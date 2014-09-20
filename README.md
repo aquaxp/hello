@@ -1,0 +1,4 @@
+hello
+=====
+
+hello Go project
